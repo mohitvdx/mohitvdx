@@ -14,12 +14,12 @@ Hey there! 👋 I'm a tech explorer on a mission to push the boundaries of web t
 
 ### 🚀 Web Developer Intern @ Turbofinn AI 
 *May 2024 - Present*
-- Crafted a mind-bending 3D landing page with Framer Motion that'll make your head spin (in a good way!) 🌀
+- Crafted mind-bending 3D Web pages with Framer Motion that'll make your head spin (in a good way!) 🌀
 - Cooked up a restaurant management system using AWS Lambda and React that's so smooth, it'll make Gordon Ramsay jealous 👨‍🍳
 
 ### ⚡ Web3 Developer Intern @ Blazpay
 *Jan 2024 - Apr 2024*
-- Whipped up 10+ landing pages faster than you can say "React.js, Tailwind CSS, and Axios" 🏎️
+- Whipped up 10+ WebApp pages faster than you can say "React.js, Tailwind CSS, and Axios" 🏎️
 - Implemented Account Abstraction across 13+ chains, making blockchain interactions smoother than a buttered slide 🧈
 - Enhanced smart contracts for mini-games, rewards, and NFTs, turning blockchain into a virtual playground 🎮
 
