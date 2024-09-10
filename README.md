@@ -2,7 +2,19 @@
 
 > *"Crafting digital realms, one line of code at a time."*
 
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitvdx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohitvdx&color=blueviolet)
+
+</div>
+
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitvdx&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ## 🚀 About Me
 
