@@ -4,17 +4,17 @@
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitvdx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center">
+<!-- <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohitvdx&color=blueviolet)
 
-</div>
-
+</div> -->
+<!-- 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitvdx&theme=dark)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 ## 🚀 About Me
 
@@ -25,7 +25,7 @@ Hey there! 👋 I'm a tech explorer on a mission to push the boundaries of web t
 ## 💼 Work Experience
 
 ### 🚀 Web Developer Intern @ Turbofinn AI 
-*May 2024 - Present*
+*May 2024 - Sep 2024*
 - Crafted mind-bending 3D Web pages with Framer Motion that'll make your head spin (in a good way!) 🌀
 - Cooked up a restaurant management system using AWS Lambda and React that's so smooth, it'll make Gordon Ramsay jealous 👨‍🍳
 
