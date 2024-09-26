@@ -1,39 +1,37 @@
 # 👨‍💻 Mohit Verma
 
-<!-- > *"Crafting digital realms, one line of code at a time."* -->
+> *"Crafting digital realms, one line of code at a time."*
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitvdx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- <div align="center">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohitvdx&color=blueviolet)
 
-</div> -->
-<!-- 
+</div>
+
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitvdx&theme=dark)](https://git.io/streak-stats)
 
-</div> -->
+</div>
 
 ## 🚀 About Me
 
 Full-Stack Developer | Web3 Developer | Open Source Contributor | cs@IIIT-Bhopal
 
-Hey there! 👋 I'm a tech explorer on a mission to push the boundaries of web technology and blockchain innovation. When I'm not crafting code, you might find me mentoring at Google Developer Student Clubs or contributing to open-source projects like SugarLabs. Oh, and I'm also a DeFi Talent Fellow@Web3 Talents!
-
 ## 💼 Work Experience
 
 ### 🚀 Web Developer Intern @ Turbofinn AI 
 *May 2024 - Sep 2024*
-- Crafted mind-bending 3D Web pages with Framer Motion that'll make your head spin (in a good way!) 🌀
-- Cooked up a restaurant management system using AWS Lambda and React that's so smooth, it'll make Gordon Ramsay jealous 👨‍🍳
+- Developed immersive 3D web experiences using Framer Motion, enhancing user engagement and interaction.
+- Engineered a robust restaurant management system leveraging AWS Lambda and React, optimizing operational efficiency.
 
 ### ⚡ Web3 Developer Intern @ Blazpay
 *Jan 2024 - Apr 2024*
-- Whipped up 10+ WebApp pages faster than you can say "React.js, Tailwind CSS, and Axios" 🏎️
-- Implemented Account Abstraction across 13+ chains, making blockchain interactions smoother than a buttered slide 🧈
-- Enhanced smart contracts for mini-games, rewards, and NFTs, turning blockchain into a virtual playground 🎮
+- Architected and implemented 10+ responsive WebApp pages utilizing React.js, Tailwind CSS, and Axios.
+- Spearheaded the implementation of Account Abstraction across 13+ blockchain networks, significantly improving user accessibility.
+- Enhanced smart contract functionality for mini-games, rewards systems, and NFT integrations.
 
 ## 🛠️ Tech Toolbox
 
@@ -78,18 +76,19 @@ Hey there! 👋 I'm a tech explorer on a mission to push the boundaries of web t
 
 ## 🎨 Featured Creations
 
-- **[RustOS](https://github.com/mohitvdx/RustKernel)** [WIP]: Because who needs Windows when you can build your own? 🖥️
-  - Engineered a fully functional kernel that efficiently manages memory and system resources for x86 architecture
-  - Implemented a multitasking system using async/await, improving task concurrency and system responsiveness
-  - Built custom VGA driver and handlers for CPU exceptions and hardware interrupts
+- **[RustOS](https://github.com/mohitvdx/RustKernel)** [WIP]: A custom operating system kernel built from scratch using Rust.
+  - Engineered core kernel functionalities including memory management and system resource allocation for x86 architecture.
+  - Implemented an advanced multitasking system utilizing async/await for improved concurrency.
+  - Developed custom VGA drivers and handlers for CPU exceptions and hardware interrupts.
 
-- **[IQMDIS](https://github.com/mohitvdx/Integrated-Quality-Monitoring-and-Discrepancy-Identification-System)**: A fancy dashboard that makes quality monitoring look cool 📊
-  - Next.js-powered interactive dashboard processing 1000+ permutations of data
-  - Reduced data processing time by 50% with automated analysis pipeline
+
+- **[IQMDIS](https://github.com/mohitvdx/Integrated-Quality-Monitoring-and-Discrepancy-Identification-System)**: An advanced dashboard for streamlined quality monitoring and analysis.
+  - Developed an interactive dashboard using Next.js, capable of processing over 1000 data permutations.
+  - Implemented an automated analysis pipeline, reducing data processing time by 50%.
   
-- **[Course Selling Application](https://github.com/mohitvdx/CourseSellingWebsite-backend)**: Knowledge commerce made easy 🎓
-  - Built with Node.js, Express, and MongoDB
-  - 10+ secure API endpoints for seamless user and admin interactions
+- **[Course Selling Application](https://github.com/mohitvdx/CourseSellingWebsite-backend)**: A comprehensive platform facilitating seamless knowledge commerce.
+  - Constructed a robust backend using Node.js, Express, and MongoDB.
+  - Designed and implemented 10+ secure API endpoints to manage user and admin interactions effectively.
 
 ## 🏆 Achievements
 
