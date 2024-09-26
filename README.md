@@ -1,6 +1,6 @@
 # 👨‍💻 Mohit Verma
 
-> *"Crafting digital realms, one line of code at a time."*
+<!-- > *"Crafting digital realms, one line of code at a time."* -->
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitvdx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
