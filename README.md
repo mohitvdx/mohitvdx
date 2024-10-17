@@ -76,7 +76,7 @@ Full-Stack Developer | Web3 Developer | Open Source Contributor | cs@IIIT-Bhopal
 
 ## 🎨 Featured Creations
 
-- **[RustOS](https://github.com/mohitvdx/RustKernel)** [WIP]: A custom operating system kernel built from scratch using Rust.
+- **[RustOS](https://github.com/mohitvdx/RustKernel)**: A custom operating system kernel built from scratch using Rust.
   - Engineered core kernel functionalities including memory management and system resource allocation for x86 architecture.
   - Implemented an advanced multitasking system utilizing async/await for improved concurrency.
   - Developed custom VGA drivers and handlers for CPU exceptions and hardware interrupts.
