@@ -76,6 +76,10 @@ Full-Stack Developer | Web3 Developer | Open Source Contributor | cs@IIIT-Bhopal
 
 ## 🎨 Featured Creations
 
+- **[CampusVoices [WIP]](https://github.com/mohitvdx/xyzdeploy)**: CampusVoices is a full-stack, Reddit-style platform for anonymous posts, built for open and honest discussions within a campus community.
+  -  Developed using Next.js and Shadcn, allowing users to post and interact anonymously. Implemented secure authentication with NextAuth.
+  - Deployed on AWS EC2 with Docker; managed a monorepo via Turborepo and automated CI/CD with GitHub Actions.
+
 - **[RustOS](https://github.com/mohitvdx/RustKernel)**: A custom operating system kernel built from scratch using Rust.
   - Engineered core kernel functionalities including memory management and system resource allocation for x86 architecture.
   - Implemented an advanced multitasking system utilizing async/await for improved concurrency.
