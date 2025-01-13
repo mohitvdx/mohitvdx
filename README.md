@@ -76,6 +76,10 @@ Full-Stack Developer | Web3 Developer | Open Source Contributor | cs@IIIT-Bhopal
 
 ## 🎨 Featured Creations
 
+- **[Multithreaded Proxy Web Server](https://github.com/mohitvdx/Multithreaded-Proxy-Web-Server)**: Developed a multithreaded HTTP proxy server using pthread, improving server response times and reducing network traffic through efficient caching.
+  - Implemented low-level socket programming for seamless communication between clients, proxy, and remote servers, ensuring reliable data exchange.
+  - Integrated comprehensive error handling, ensuring system stability with detailed HTTP status responses and preventing server crashes.
+
 - **[CampusVoices [WIP]](https://github.com/mohitvdx/xyzdeploy)**: CampusVoices is a full-stack, Reddit-style platform for anonymous posts, built for open and honest discussions within a campus community.
   -  Developed using Next.js and Shadcn, allowing users to post and interact anonymously. Implemented secure authentication with NextAuth.
   - Deployed on AWS EC2 with Docker; managed a monorepo via Turborepo and automated CI/CD with GitHub Actions.
