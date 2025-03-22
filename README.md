@@ -76,6 +76,10 @@ Full-Stack Developer | Web3 Developer | Open Source Contributor | cs@IIIT-Bhopal
 
 ## 🎨 Featured Creations
 
+- **[Asynchronous Concurrent Chat](https://github.com/mohitvdx/Asynchronous-Concurrent-Chat)**: Developed a high-performance, real-time chat server in C++ leveraging Boost.Asio for asynchronous network communication, enabling efficient handling of numerous concurrent client connections.
+  - Implemented a multi-threaded architecture to manage individual client sessions, ensuring responsiveness and scalability while adhering to principles of modular design and separation of concerns. 
+  - Utilized Docker for containerization to ensure a consistent development and deployment environment, and incorporated forward-thinking design by outlining future integration of post-quantum encryption for enhanced security. 
+
 - **[Multithreaded Proxy Web Server](https://github.com/mohitvdx/Multithreaded-Proxy-Web-Server)**: Developed a multithreaded HTTP proxy server using pthread, improving server response times and reducing network traffic through efficient caching.
   - Implemented low-level socket programming for seamless communication between clients, proxy, and remote servers, ensuring reliable data exchange.
   - Integrated comprehensive error handling, ensuring system stability with detailed HTTP status responses and preventing server crashes.
